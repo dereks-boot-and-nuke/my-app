@@ -20,3 +20,12 @@ app/[user].js matches dynamic paths like /expo or /evanbacon
 
 # Icons 
 https://icons.expo.fyi/Index
+
+# Tutorials
+https://www.youtube.com/@galaxies_dev/videos
+
+https://www.youtube.com/@notjustdev/videos
+
+# Expo Router
+https://docs.expo.dev/routing/create-pages/
+
