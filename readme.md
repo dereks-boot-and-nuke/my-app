@@ -1,8 +1,12 @@
 # Setup Commands
-npx create-expo-app@latest --template tabs@49
+npx create-expo-app@latest --template tabs@49 
+
 npx expo start
+
 npx expo install
+
 npm install -g npx
+
 npm install -g npm@10.1.0
 
 # Run Commands
